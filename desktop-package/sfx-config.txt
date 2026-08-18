@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Plánovač směn 2027"
+RunProgram="Planovac smen 2027.exe"
+GUIMode="2"
+;!@InstallEnd@!

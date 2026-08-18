@@ -1,0 +1,19 @@
+{
+  "name": "planovac-smen-2027",
+  "version": "1.0.0",
+  "description": "Přenosný plánovač směn pro rok 2027",
+  "main": "main.cjs",
+  "private": true,
+  "build": {
+    "appId": "cz.planovac.smen2027",
+    "electronVersion": "43.4.0",
+    "productName": "Planovac smen 2027",
+    "asar": true,
+    "asarUnpack": ["standalone/**/*"],
+    "files": ["main.cjs", "standalone/**/*"],
+    "win": {
+      "target": "portable",
+      "artifactName": "Planovac-smen-2027-portable.exe"
+    }
+  }
+}

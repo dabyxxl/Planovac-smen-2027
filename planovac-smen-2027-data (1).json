@@ -1,0 +1,1545 @@
+{
+  "version": 1,
+  "exportedAt": "2026-08-10T09:33:59.560Z",
+  "workers": [
+    {
+      "id": "A",
+      "name": "Téra"
+    },
+    {
+      "id": "B",
+      "name": "Pichnarčík"
+    },
+    {
+      "id": "C",
+      "name": "Rechtorík"
+    },
+    {
+      "id": "D",
+      "name": "Mikuš"
+    },
+    {
+      "id": "E",
+      "name": "Pivko"
+    },
+    {
+      "id": "F",
+      "name": "Kopta"
+    },
+    {
+      "id": "G",
+      "name": "Müller"
+    },
+    {
+      "id": "H",
+      "name": "Dabergotz"
+    },
+    {
+      "id": "I",
+      "name": "Němcová"
+    },
+    {
+      "id": "J",
+      "name": "Mertová"
+    }
+  ],
+  "pairs": [
+    {
+      "id": "AB",
+      "members": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "CD",
+      "members": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "EF",
+      "members": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "GH",
+      "members": [
+        "G",
+        "H"
+      ]
+    },
+    {
+      "id": "IJ",
+      "members": [
+        "I",
+        "J"
+      ]
+    }
+  ],
+  "vacations": [
+    {
+      "id": "f3a5f24e-e41d-4e6f-ab4e-a83e2d9fce05",
+      "workerId": "A",
+      "from": "2027-03-07",
+      "to": "2027-03-10"
+    },
+    {
+      "id": "12ded516-331d-4f4b-b76b-1eba3e6af0e9",
+      "workerId": "A",
+      "from": "2027-05-16",
+      "to": "2027-05-19"
+    },
+    {
+      "id": "9bf6c370-8f88-49cc-84fe-d2ed34fab8f8",
+      "workerId": "A",
+      "from": "2027-07-15",
+      "to": "2027-07-18"
+    },
+    {
+      "id": "40f245f5-332e-4ef0-a1fb-bbcc0f0f8e99",
+      "workerId": "A",
+      "from": "2027-09-03",
+      "to": "2027-09-06"
+    },
+    {
+      "id": "12653bfc-1c05-4cc3-af7f-29c3c32671d9",
+      "workerId": "B",
+      "from": "2027-02-15",
+      "to": "2027-02-18"
+    },
+    {
+      "id": "b2a9bd91-44ab-43a6-8065-3ed776de7698",
+      "workerId": "D",
+      "from": "2027-02-27",
+      "to": "2027-03-02"
+    },
+    {
+      "id": "6e75d26f-86e5-4ed5-8e0b-0ffdce22c174",
+      "workerId": "G",
+      "from": "2027-02-11",
+      "to": "2027-02-14"
+    },
+    {
+      "id": "0c19ea2d-f48f-40bb-bb46-25ff3c19e0b7",
+      "workerId": "J",
+      "from": "2027-02-23",
+      "to": "2027-02-26"
+    },
+    {
+      "id": "c9281cd8-8321-47fe-b91f-13cff599c766",
+      "workerId": "C",
+      "from": "2027-03-09",
+      "to": "2027-03-12"
+    },
+    {
+      "id": "e5c2006b-033f-4632-9ad3-12078a004b4b",
+      "workerId": "F",
+      "from": "2027-03-01",
+      "to": "2027-03-04"
+    },
+    {
+      "id": "7eb6b77a-2713-4161-9e2f-d9e9f89777fd",
+      "workerId": "I",
+      "from": "2027-03-15",
+      "to": "2027-03-18"
+    },
+    {
+      "id": "e8c923e2-93c1-49dd-af47-c74973ce9434",
+      "workerId": "D",
+      "from": "2027-04-18",
+      "to": "2027-04-21"
+    },
+    {
+      "id": "6cfecf78-c0a2-462a-9562-77a54a9c6d04",
+      "workerId": "E",
+      "from": "2027-04-20",
+      "to": "2027-04-23"
+    },
+    {
+      "id": "8e1de753-c20e-4b5d-a1d4-98d563e316ca",
+      "workerId": "H",
+      "from": "2027-04-12",
+      "to": "2027-04-15"
+    },
+    {
+      "id": "9761e245-b06f-4915-a581-8f0d4b529847",
+      "workerId": "F",
+      "from": "2027-05-10",
+      "to": "2027-05-13"
+    },
+    {
+      "id": "ea03cde4-a1f8-43c6-a668-96ec734b543b",
+      "workerId": "I",
+      "from": "2027-05-24",
+      "to": "2027-05-27"
+    },
+    {
+      "id": "2abf952e-f5e7-4f3b-a787-006ed7fe20fc",
+      "workerId": "B",
+      "from": "2027-06-15",
+      "to": "2027-06-18"
+    },
+    {
+      "id": "c3240e8e-9308-41da-b6cf-a191faec4ed5",
+      "workerId": "C",
+      "from": "2027-06-07",
+      "to": "2027-06-10"
+    },
+    {
+      "id": "37e88b5a-c342-4376-be02-879927751eb1",
+      "workerId": "G",
+      "from": "2027-06-21",
+      "to": "2027-06-24"
+    },
+    {
+      "id": "1ba40f84-8511-4fc1-9ddb-107a1fce9904",
+      "workerId": "H",
+      "from": "2027-06-11",
+      "to": "2027-06-14"
+    },
+    {
+      "id": "8198f586-cdd5-44c3-b8c7-43c048ccf4b7",
+      "workerId": "J",
+      "from": "2027-06-13",
+      "to": "2027-06-16"
+    },
+    {
+      "id": "92fbfbeb-1310-41a5-a581-de7b5639db37",
+      "workerId": "D",
+      "from": "2027-07-27",
+      "to": "2027-07-30"
+    },
+    {
+      "id": "f31b3558-f1b3-4d61-8e0a-39262629fd1e",
+      "workerId": "E",
+      "from": "2027-07-19",
+      "to": "2027-07-22"
+    },
+    {
+      "id": "efa7a69b-90dd-4c03-acea-2cdd57f08360",
+      "workerId": "H",
+      "from": "2027-07-11",
+      "to": "2027-07-14"
+    },
+    {
+      "id": "634d030d-7ab4-4573-9399-da531030e3d9",
+      "workerId": "B",
+      "from": "2027-08-24",
+      "to": "2027-08-27"
+    },
+    {
+      "id": "1ff77b37-c811-47e9-a771-cb17ef87761a",
+      "workerId": "C",
+      "from": "2027-08-16",
+      "to": "2027-08-19"
+    },
+    {
+      "id": "7e23019e-f642-4eeb-bf36-768a9212613d",
+      "workerId": "F",
+      "from": "2027-08-18",
+      "to": "2027-08-21"
+    },
+    {
+      "id": "5b74d0e7-4f29-4e86-9d74-119c85853c59",
+      "workerId": "I",
+      "from": "2027-08-02",
+      "to": "2027-08-05"
+    },
+    {
+      "id": "737c7f8f-7b40-473a-9556-8c78d5996ffa",
+      "workerId": "J",
+      "from": "2027-08-12",
+      "to": "2027-08-15"
+    },
+    {
+      "id": "a4429c49-5789-4c2b-8aec-f6315b8906a0",
+      "workerId": "E",
+      "from": "2027-09-07",
+      "to": "2027-09-10"
+    },
+    {
+      "id": "e5c8e131-e177-4893-88fb-cd1e09d8eaed",
+      "workerId": "G",
+      "from": "2027-09-09",
+      "to": "2027-09-12"
+    },
+    {
+      "id": "78a8fa4a-ccbb-4637-a411-8391d04906ef",
+      "workerId": "H",
+      "from": "2027-09-19",
+      "to": "2027-09-22"
+    },
+    {
+      "id": "2ab5a94b-43aa-465d-b861-62e4aea24969",
+      "workerId": "E",
+      "from": "2027-10-17",
+      "to": "2027-10-20"
+    },
+    {
+      "id": "ee031d36-0593-4eaf-ad99-c3b19e8b8f96",
+      "workerId": "F",
+      "from": "2027-10-07",
+      "to": "2027-10-10"
+    },
+    {
+      "id": "9ab4966f-c2f5-4e92-bf76-d02fb29c6a24",
+      "workerId": "J",
+      "from": "2027-10-21",
+      "to": "2027-10-24"
+    },
+    {
+      "id": "142d35ae-97e6-43d2-9551-0e3772443ede",
+      "workerId": "B",
+      "from": "2027-11-22",
+      "to": "2027-11-25"
+    },
+    {
+      "id": "d452f75b-27b7-4e2f-94ab-5d537595aa80",
+      "workerId": "C",
+      "from": "2027-11-24",
+      "to": "2027-11-27"
+    },
+    {
+      "id": "f8c4d9c2-fb87-4bf0-b186-1251029bd245",
+      "workerId": "D",
+      "from": "2027-11-04",
+      "to": "2027-11-07"
+    },
+    {
+      "id": "805a30d1-65ac-4f32-b388-989bac1c0a8e",
+      "workerId": "G",
+      "from": "2027-11-18",
+      "to": "2027-11-21"
+    },
+    {
+      "id": "ca5eb2b5-3cf4-4504-b097-2dbabde468f7",
+      "workerId": "I",
+      "from": "2027-11-10",
+      "to": "2027-11-13"
+    }
+  ],
+  "overrides": [
+    {
+      "date": "2027-02-11",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-12",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-13",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-14",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-15",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-16",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-17",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-18",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-23",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-24",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-25",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-26",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-27",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-28",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-01",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-01",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-02",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-02",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-03",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-04",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-07",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-08",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-09",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-09",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-10",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-10",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-11",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-12",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-15",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-16",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-17",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-03-18",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-12",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-13",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-14",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-15",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-18",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-19",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-20",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-20",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-21",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-21",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-22",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-04-23",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-10",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-11",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-12",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-13",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-16",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-17",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-18",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-19",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-24",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-25",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-26",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-05-27",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-07",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-08",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-09",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-10",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-11",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-12",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-13",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-13",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-14",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-14",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-15",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-15",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-16",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-16",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-17",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-18",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-21",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-22",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-23",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-06-24",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-11",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-12",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-13",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-14",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-15",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-16",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-17",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-18",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-19",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-20",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-21",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-22",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-27",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-28",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-29",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-07-30",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-02",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-03",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-04",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-05",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-12",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-13",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-14",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-15",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-16",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-17",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-18",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-18",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-19",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-19",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-20",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-21",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-24",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-25",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-26",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-08-27",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-03",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-04",
+      "kind": "day",
+      "absentId": "A",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-05",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-06",
+      "kind": "night",
+      "absentId": "A",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-07",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-08",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-09",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-09",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-10",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-10",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-11",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-12",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-19",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-20",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-21",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-09-22",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-07",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-08",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-09",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-10",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-17",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-18",
+      "kind": "day",
+      "absentId": "E",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-19",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-20",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-21",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-22",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-23",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-10-24",
+      "kind": "night",
+      "absentId": "J",
+      "substituteId": "F",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-04",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-05",
+      "kind": "day",
+      "absentId": "D",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-06",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "G",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-07",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-10",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "B",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-11",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-12",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "C",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-13",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-18",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "A",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-19",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-20",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-21",
+      "kind": "night",
+      "absentId": "G",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-22",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-23",
+      "kind": "day",
+      "absentId": "B",
+      "substituteId": "D",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-24",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "E",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-24",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-25",
+      "kind": "day",
+      "absentId": "C",
+      "substituteId": "H",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-25",
+      "kind": "night",
+      "absentId": "B",
+      "substituteId": "J",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-26",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-11-27",
+      "kind": "night",
+      "absentId": "C",
+      "substituteId": "I",
+      "source": "auto"
+    },
+    {
+      "date": "2027-02-01",
+      "kind": "night",
+      "absentId": "F",
+      "substituteId": "B",
+      "source": "balance"
+    },
+    {
+      "date": "2027-02-03",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "B",
+      "source": "balance"
+    },
+    {
+      "date": "2027-04-01",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "J",
+      "source": "balance"
+    },
+    {
+      "date": "2027-04-04",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "B",
+      "source": "balance"
+    },
+    {
+      "date": "2027-05-01",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "J",
+      "source": "balance"
+    },
+    {
+      "date": "2027-02-01",
+      "kind": "night",
+      "absentId": "E",
+      "substituteId": "J",
+      "source": "balance"
+    },
+    {
+      "date": "2027-06-29",
+      "kind": "day",
+      "absentId": "F",
+      "substituteId": "H",
+      "source": "balance"
+    },
+    {
+      "date": "2027-06-25",
+      "kind": "night",
+      "absentId": "I",
+      "substituteId": "H",
+      "source": "balance"
+    },
+    {
+      "date": "2027-08-01",
+      "kind": "day",
+      "absentId": "H",
+      "substituteId": "A",
+      "source": "balance"
+    },
+    {
+      "date": "2027-09-07",
+      "kind": "night",
+      "absentId": "D",
+      "substituteId": "B",
+      "source": "balance"
+    },
+    {
+      "date": "2027-07-01",
+      "kind": "day",
+      "absentId": "G",
+      "substituteId": "A",
+      "source": "balance"
+    },
+    {
+      "date": "2027-10-01",
+      "kind": "night",
+      "absentId": "H",
+      "substituteId": "A",
+      "source": "balance"
+    },
+    {
+      "date": "2027-07-03",
+      "kind": "day",
+      "absentId": "I",
+      "substituteId": "B",
+      "source": "balance"
+    },
+    {
+      "date": "2027-07-03",
+      "kind": "day",
+      "absentId": "J",
+      "substituteId": "C",
+      "source": "balance"
+    }
+  ]
+}

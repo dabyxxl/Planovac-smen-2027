@@ -1,0 +1,11 @@
+PLÁNOVAČ SMĚN 2027 – PŘENOSNÁ VERZE
+
+Soubor: Planovac-smen-2027-portable.exe
+
+1. Zkopírujte EXE na počítač s 64bitovým systémem Windows 10 nebo Windows 11.
+2. Dvakrát na něj klikněte.
+3. Při prvním spuštění může Windows zobrazit upozornění, protože aplikace není digitálně podepsaná.
+4. Spuštění může několik sekund trvat – aplikace se nejprve rozbalí do dočasné složky.
+
+Není potřeba instalovat Node.js ani další programy.
+Data a provedené změny se ukládají místně do profilu Windows daného uživatele.
